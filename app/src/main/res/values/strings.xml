@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_account">Create An Account!</string>
+    <string name="password">Password</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="course">Course</string>
+    <string name="email">First.Last@example.com</string>
+    <string name="username">Username</string>
+    <string name="select">Select a Course</string>
+    <string name="username_heading">Username:</string>
+    <string name="email_heading">Email Address:</string>
+    <string name="course_heading">Course:</string>
+    <string name="password_heading">Create Password:</string>
+    <string name="confirm_heading">Confirm Password:</string>
+    <string name="signup">Sign Up</string>
+    <string name="account">Already have an account?</string>
+    <string name="signin">Sign in</string>
+</resources>
