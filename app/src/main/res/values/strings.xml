@@ -15,4 +15,22 @@
     <string name="signup">Sign Up</string>
     <string name="account">Already have an account?</string>
     <string name="signin">Sign in</string>
+    <string name="create_wager">Create a Wager</string>
+    <string name="challenge">Who do you want to challenge?</string>
+    <string name="challenge_class">What class are you challenging in?</string>
+    <string name="challenge_assessment">Which assessment are you challenging in?</string>
+    <string name="coins_wagering">How many coins are you wagering?</string>
+    <string name="create_button">Create Wager</string>
+    <string name="wager_username">Enter Username</string>
+    <string name="wager_classname">Enter Class Code</string>
+    <string name="wager_assessment">Enter Assessment Name</string>
+    <string name="wager_coins">Enter Number of Coins</string>
+    <string name="wager_created">Wager Created!</string>
+    <string name="return_home">Return to Homepage</string>
+    <string name="create_class">Create a Class</string>
+    <string name="class_created">Class Created!</string>
+    <string name="wager_challenge">Wager Challenge</string>
+    <string name="wager_accepted">Wager Accepted, Good Luck!</string>
+    <string name="wager_declined">Wager Declined.</string>
+
 </resources>
